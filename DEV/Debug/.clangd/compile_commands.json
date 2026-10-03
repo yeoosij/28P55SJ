@@ -1,0 +1,252 @@
+[
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/common/source/device.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/common/source/f28p55x_adc.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk",
+      "file"      : "D:/ADev/DEV/common/source/f28p55x_codestartbranch.asm"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/common/source/f28p55x_cputimers.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk",
+      "file"      : "D:/ADev/DEV/common/source/f28p55x_dbgier.asm"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/common/source/f28p55x_defaultisr.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/common/source/f28p55x_dma.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/common/source/f28p55x_epwm.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/common/source/f28p55x_gpio.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/common/source/f28p55x_npu.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/common/source/f28p55x_piectrl.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/common/source/f28p55x_pievect.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/common/source/f28p55x_sysctrl.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/common/source/f28p55x_tempsensorconv.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk",
+      "file"      : "D:/ADev/DEV/common/source/f28p55x_usdelay.asm"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/adc.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/aes.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/asysctl.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/cla.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/clb.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/cmpss.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/cputimer.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/dac.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/dcc.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/dcsm.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/dma.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/ecap.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/epg.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/epwm.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/eqep.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/erad.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/flash.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/fsi.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/gpio.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/hrpwm.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/i2c.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/interrupt.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/lin.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/mcan.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/memcfg.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/pga.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/pmbus.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/sci.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/spi.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/sysctl.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/usb.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/version.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/driverlib/xbar.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/headers/source/f28p55x_globalvariabledefs.c"
+   },
+   {
+      "directory" : "D:/ADev/DEV/Debug",
+      "command"   : "clang++ -I\"D:/ADev/DEV\" -I\"D:/ADev/DEV/common/include\" -I\"D:/ADev/DEV/driverlib\" -I\"D:/ADev/DEV/headers/include\" -I\"D:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DRELEASE -DFLASH -Dgeneric_flash_lnk -xc",
+      "file"      : "D:/ADev/DEV/main.c"
+   }
+]
